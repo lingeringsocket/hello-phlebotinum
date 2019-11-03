@@ -1,0 +1,16 @@
+"Resource" import "/game-axioms.txt".
+
+A tree, a rock, and a cloud exist.
+There is a meadow and a sky.
+
+The tree is above the meadow.
+The tree's description is "The branches of the sturdy little live oak splay out low and wide.".
+The tree's place-description is "You are sitting on a thick branch a few feet above the ground.".
+
+The tree, the player-character, and the rock are in the meadow.
+The cloud is in the sky.
+The cloud's description is "A fluffy little fellow, shaped like a thought balloon.".
+The rock's description is "Just the right size to fit in your hand.".
+
+The player-character is perceptive.
+The player-character believes "/player-mind-init.txt".

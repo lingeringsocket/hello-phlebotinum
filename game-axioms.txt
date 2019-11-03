@@ -1,0 +1,13 @@
+"Resource" import "/phlebotinum/default-axioms.txt".
+
+Trees, meadows, and skies are kinds of map-places.
+A tree is a kind of visible-entity.
+
+Rocks and clouds are kinds of game-objects.
+
+When a game-character climbs a tree, the game-character goes upward.
+When a game-character kicks an object, the game-interpreter says "Ow!".
+When a game-character kicks a rock, the game-interpreter says "You refute it thus.".
+When a game-character throws a game-object, the game-character drops it.
+When a game-object falls onto a tree, the game-interpreter says "It falls to the ground.";
+ also the game-object is subsequently in the tree's container.
