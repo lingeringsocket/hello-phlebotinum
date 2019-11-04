@@ -14,3 +14,6 @@ The rock's description is "Just the right size to fit in your hand.".
 
 The player-character is perceptive.
 The player-character believes "/player-mind-init.txt".
+
+Whenever the player-character surveys an outdoor-place,
+ the player-character surveys the sky.

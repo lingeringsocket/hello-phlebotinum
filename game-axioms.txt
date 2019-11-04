@@ -1,6 +1,8 @@
 "Resource" import "/phlebotinum/default-axioms.txt".
 
-Trees, meadows, and skies are kinds of map-places.
+An outdoor-place is a kind of map-place.
+A sky is a kind of map-place.
+Trees and meadows are kinds of outdoor-places.
 A tree is a kind of visible-entity.
 
 Rocks and clouds are kinds of game-objects.

@@ -1,5 +1,5 @@
 "Resource" import "/phlebotinum/default-capability-axioms.txt".
 
 A person can climb a tree.
-A person can kick.
+A person can kick a visible-entity.
 A player-character can throw a game-object.
