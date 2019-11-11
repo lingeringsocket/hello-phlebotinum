@@ -13,3 +13,9 @@ When a game-character kicks a rock, the game-interpreter says "You refute it thu
 When a game-character throws a game-object, the game-character drops it.
 When a game-object falls onto a tree, the game-interpreter says "It falls to the ground.";
  also the game-object is subsequently in the tree's container.
+When a game-character jumps from a map-place,
+ the game-character must be in the map-place.
+When a game-character jumps, the game-interpreter says "Hooray!";
+ also the game-character jumps from the game-character's container.
+When a game-character jumps from a tree, the game-interpreter says "You plummet to the ground.";
+ also the game-character goes downward.

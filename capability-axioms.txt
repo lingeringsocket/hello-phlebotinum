@@ -2,4 +2,7 @@
 
 A person can climb a tree.
 A person can kick a visible-entity.
-A player-character can throw a game-object.
+A person can throw a game-object.
+A person can jump.
+A person can jump from a map-place.
+A person cannot jump from a game-object.
