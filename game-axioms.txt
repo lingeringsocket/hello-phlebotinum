@@ -1,4 +1,4 @@
-"Resource" import "/phlebotinum/default-axioms.txt".
+Import "/phlebotinum/default-axioms.txt".
 
 An outdoor-place is a kind of map-place.
 A sky is a kind of map-place.
