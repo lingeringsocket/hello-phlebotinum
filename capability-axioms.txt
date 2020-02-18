@@ -1,4 +1,4 @@
-Import "/phlebotinum/default-capability-axioms.txt".
+Believe "/phlebotinum/default-capability-axioms.txt".
 
 A person can climb a tree.
 A person can kick a visible-entity.

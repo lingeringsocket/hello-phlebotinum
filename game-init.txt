@@ -1,4 +1,4 @@
-Import "/game-axioms.txt".
+Believe "/game-axioms.txt".
 
 A tree, a rock, and a cloud exist.
 There is a meadow and a sky.

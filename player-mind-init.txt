@@ -1,2 +1,2 @@
-Import "/phlebotinum/character-axioms.txt".
-Import "/capability-axioms.txt".
+Believe "/phlebotinum/character-axioms.txt".
+Believe "/capability-axioms.txt".
