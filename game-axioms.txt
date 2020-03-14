@@ -1,21 +1,2 @@
-Believe "/phlebotinum/default-axioms.txt".
-
-An outdoor-place is a kind of map-place.
-A sky is a kind of map-place.
-Trees and meadows are kinds of outdoor-places.
-A tree is a kind of visible-entity.
-
-Rocks and clouds are kinds of game-objects.
-
-When a game-character climbs a tree, the game-character goes upward.
-When a game-character kicks an object, the game-interpreter says "Ow!".
-When a game-character kicks a rock, the game-interpreter says "You refute it thus.".
-When a game-character throws a game-object, the game-character drops it.
-When a game-object falls onto a tree, the game-interpreter says "It falls to the ground.";
- also the game-object is subsequently in the tree's container.
-When a game-character jumps from a map-place,
- the game-character must be in the map-place.
-When a game-character jumps, the game-interpreter says "Hooray!";
- also the game-character jumps from the game-character's container.
-When a game-character jumps from a tree, the game-interpreter says "You plummet to the ground.";
- also the game-character goes downward.
+Believe "/ontology-axioms.txt".
+Believe "/behavior-axioms.txt".
