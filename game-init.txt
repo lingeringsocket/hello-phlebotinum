@@ -1,16 +1,25 @@
 Believe "/game-axioms.txt".
 
 A tree, a rock, and a cloud exist.
-There is a meadow and a sky.
+There is a meadow, a barn, a grassy path, a photograph, and a sky.
 
 The tree is above the meadow.
 The tree's description is "The branches of the sturdy little live oak splay out low and wide.".
 The tree's place-description is "You are sitting on a thick branch a few feet above the ground.".
 
+The barn is south of the meadow.
+
 The tree, the player-character, and the rock are in the meadow.
 The cloud is in the sky.
 The cloud's description is "A fluffy little fellow, shaped like a thought balloon.".
 The rock's description is "Just the right size to fit in your hand.".
+The player-character is holding the photograph.
+The photograph's description is "A photo of a person, but the face is blurred.".
+
+The path's description is "The freshly mown grass reminds you of happier times.".
+The grassy path connects the meadow to the barn.
+
+Believe "/child-init.txt".
 
 The player-character is perceptive.
 The player-character believes "/player-mind-init.txt".

@@ -1,0 +1,9 @@
+Believe "/child-axioms.txt".
+
+The child is perceptive.
+The child's description is "Yer average ragamuffin.".
+The child is in the barn.
+
+The child surveys the tree.
+
+The child believes "/child-mind-init.txt".
