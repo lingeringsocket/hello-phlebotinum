@@ -11,5 +11,3 @@ A path is a kind of map-portal.
 A path must be open.
 
 Rocks, clouds, and photographs are kinds of game-objects.
-
-A child is a kind of non-player-character.
