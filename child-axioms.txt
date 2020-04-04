@@ -10,3 +10,6 @@ Whenever the game-turn advances,
  the child has no visible-items;
  also the child perceives the child;
  also the child surveys the child's container.
+
+When a child annotates a map-portal with a map-direction,
+ the child composes {{the map-portal} towards {the map-direction}}.
