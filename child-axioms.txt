@@ -13,3 +13,6 @@ Whenever the game-turn advances,
 
 When a child annotates a map-portal with a map-direction,
  the child composes {{the map-portal} towards {the map-direction}}.
+
+When a child references a photograph,
+ the child recites "the photo".
