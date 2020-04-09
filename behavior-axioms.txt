@@ -3,15 +3,22 @@ Believe "/ontology-axioms.txt".
 
 When a game-character follows a path, the game-character traverses
  {the path's mediated-connection among the game-character's container's place-exits}.
-When a game-character climbs a tree, the game-character goes upward.
-When a game-character kicks an object, the game-interpreter says "Ow!".
-When a game-character kicks a rock, the game-interpreter says "You refute it thus.".
-When a game-character throws a game-object, the game-character drops it.
-When a game-object falls onto a tree, the game-interpreter says "It falls to the ground.";
+When a game-character climbs a tree,
+ the game-character goes upward.
+When a game-character kicks an object,
+ the game-interpreter says "Ow!".
+When a game-character kicks a rock,
+ the game-interpreter says "You refute it thus.".
+When a game-character throws a game-object,
+ the game-character drops it.
+When a game-object falls onto a tree,
+ the game-interpreter says "It falls to the ground.";
  also the game-object is subsequently in the tree's container.
 When a game-character jumps from a map-place,
  the game-character must be in the map-place.
-When a game-character jumps, the game-interpreter says "Hooray!";
+When a game-character jumps,
+ the game-interpreter says "Hooray!";
  also the game-character jumps from the game-character's container.
-When a game-character jumps from a tree, the game-interpreter says "You plummet to the ground.";
+When a game-character jumps from a tree,
+ the game-interpreter says "You plummet to the ground.";
  also the game-character goes downward.

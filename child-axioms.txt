@@ -16,3 +16,10 @@ When a child annotates a map-portal with a map-direction,
 
 When a child references a photograph,
  the child recites "the photo".
+
+When a child references a player-character,
+ the child recites "some oldster".
+
+When a player-character shows a photograph to a child,
+ the child perceives it and its container;
+ also the child says "I wonder who that is?".
