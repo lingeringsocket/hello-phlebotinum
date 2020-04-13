@@ -22,3 +22,6 @@ When a game-character jumps,
 When a game-character jumps from a tree,
  the game-interpreter says "You plummet to the ground.";
  also the game-character goes downward.
+
+When the game-turn initializes,
+ the game-interpreter says "With apologies to Carson McCullers.".
