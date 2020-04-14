@@ -1,1 +1,7 @@
-Believe "/child-axioms.txt".
+Believe "/base-axioms.txt".
+
+When a child references a photograph,
+ the child recites "the photo".
+
+When a child references a player-character,
+ the child recites "some oldster".

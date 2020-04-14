@@ -1,3 +1,0 @@
-Believe "/ontology-axioms.txt".
-Believe "/behavior-axioms.txt".
-Believe "/child-axioms.txt".

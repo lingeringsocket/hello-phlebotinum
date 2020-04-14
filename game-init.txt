@@ -1,4 +1,4 @@
-Believe "/game-axioms.txt".
+Believe "/base-axioms.txt".
 
 A tree, a rock, and a cloud exist.
 There is a meadow, a barn, a grassy path, a photograph, and a sky.
@@ -19,10 +19,16 @@ The photograph's description is "A photo of a person, but the face is blurred.".
 The path's description is "The freshly mown grass reminds you of happier times.".
 The grassy path connects the meadow to the barn.
 
-Believe "/child-init.txt".
+Believe "/behavior-axioms.txt".
+
+The child is perceptive.
+The child's description is "Yer average ragamuffin.".
+The child is in the barn.
+
+The child surveys the barn.
+
+The child believes "/child-mind-init.txt".
 
 The player-character is perceptive.
 The player-character believes "/player-mind-init.txt".
 
-Whenever the player-character surveys an outdoor-place,
- the player-character surveys the sky.

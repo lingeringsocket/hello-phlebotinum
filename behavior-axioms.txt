@@ -1,5 +1,4 @@
-Believe "/phlebotinum/default-axioms.txt".
-Believe "/ontology-axioms.txt".
+Believe "/base-axioms.txt".
 
 When a game-character follows a path, the game-character traverses
  {the path's mediated-connection among the game-character's container's place-exits}.
@@ -25,3 +24,18 @@ When a game-character jumps from a tree,
 
 When the game-turn initializes,
  the game-interpreter says "With apologies to Carson McCullers.".
+
+Whenever the game-turn advances,
+ the child has no visible-items;
+ also the child perceives the child;
+ also the child surveys the child's container.
+
+When a child annotates a map-portal with a map-direction,
+ the child composes {{the map-portal} towards {the map-direction}}.
+
+When a player-character shows a photograph to a child,
+ the child perceives it and its container;
+ also the child says "I wonder who that is?".
+
+Whenever the player-character surveys an outdoor-place,
+ the player-character surveys the sky.
