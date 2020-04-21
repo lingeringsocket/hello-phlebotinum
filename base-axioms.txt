@@ -1,5 +1,6 @@
 Believe "/phlebotinum/default-axioms.txt".
 
+A lovely-entity is a kind of entity.
 An outdoor-place is a kind of map-place.
 A sky is a kind of map-place.
 A barn is a kind of map-place.
@@ -11,6 +12,8 @@ A path is a kind of map-portal.
 A path must be open.
 
 Rocks, clouds, and photographs are kinds of game-objects.
+
+Trees, rocks, and clouds are kinds of lovely-entity.
 
 A child is a kind of non-player-character.
 There is a child.

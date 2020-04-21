@@ -9,3 +9,4 @@ A person can jump from a map-place.
 A person cannot jump from a game-object.
 A person can follow a path.
 A person can show a game-object.
+A person can love an entity.
