@@ -7,6 +7,9 @@ A barn is a kind of map-place.
 Trees and meadows are kinds of outdoor-places.
 A tree is a kind of visible-object.
 
+A heart is a kind of game-object.
+A heart's size may be small, medium, or large.
+
 A path is a kind of visible-fixture.
 A path is a kind of map-portal.
 A path must be open.
