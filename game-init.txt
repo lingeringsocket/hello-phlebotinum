@@ -19,8 +19,8 @@ The photograph's description is "A photo of a person, but the face is blurred.".
 The path's description is "The freshly mown grass reminds you of happier times.".
 The grassy path connects the meadow to the barn.
 
-There is a heart.
-The heart's size is small.
+The player-character has a heart.
+The player-character's heart is small.
 
 Believe "/behavior-axioms.txt".
 
