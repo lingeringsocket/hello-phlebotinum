@@ -5,33 +5,33 @@ When a player-character loves a tree,
  "The leaves blush gold in the sunlight.".
 
 When a player-character loves a tree,
- the player-character's heart might not be small;
- otherwise the player-character's heart becomes medium.
+ and player-character's heart is small,
+ the player-character's heart becomes medium.
 
 When a player-character loves a rock,
- the player-character's heart might not be small;
- otherwise the game-interpreter says
+ and the player-character's heart is small,
+ the game-interpreter says
  "You try, but its stoniness is so unlovable; maybe you should start with something easier?".
 
 When a player-character loves a rock,
- the player-character's heart might be small;
- otherwise the game-interpreter says
+ and the player-character's heart is not small,
+ the game-interpreter says
  "The rock seems to soften for a moment.".
 
 When a player-character loves a rock,
- the player-character's heart might not be medium;
- otherwise the player-character's heart becomes large.
+ and the player-character's heart is medium,
+ the player-character's heart becomes large.
 
 When a player-character loves a cloud,
- the player-character's heart might not be large;
- otherwise the game-interpreter says
+ and the player-character's heart is large,
+ the game-interpreter says
  "The cloud gives a silvery shimmer.".
 
 When a player-character loves a cloud,
- the player-character's heart might be large;
- otherwise the game-interpreter says
+ and the player-character's heart is not large,
+ the game-interpreter says
  "You try, but it's so far away; maybe you should start with something closer?".
 
 When a player-character loves an entity,
- the entity might be a lovely-entity;
- otherwise the game-interpreter says "Your heart grows a tiny bit.".
+ and the entity is not a lovely-entity,
+ the game-interpreter says "Your heart grows a tiny bit.".
