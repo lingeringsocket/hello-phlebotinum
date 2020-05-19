@@ -2,8 +2,7 @@ Believe "/phlebotinum/default-axioms.txt".
 
 A lovely-entity is a kind of entity.
 An outdoor-place is a kind of map-place.
-A sky is a kind of map-place.
-A barn is a kind of map-place.
+Skies, barns, and dazes are kinds of map-places.
 Trees and meadows are kinds of outdoor-places.
 A tree is a kind of visible-object.
 

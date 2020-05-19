@@ -24,8 +24,7 @@ When a player-character loves a rock,
 
 When a player-character loves a cloud,
  and the player-character's heart is large,
- the game-interpreter says
- "The cloud gives a silvery shimmer.".
+ the player-character succeeds.
 
 When a player-character loves a cloud,
  and the player-character's heart is not large,
@@ -35,3 +34,8 @@ When a player-character loves a cloud,
 When a player-character loves an entity,
  and the entity is not a lovely-entity,
  the game-interpreter says "Your heart grows a tiny bit.".
+
+When a player-character succeeds,
+ the game-interpreter says "The cloud gives a silvery shimmer.";
+ also the game-interpreter says "By its light, you notice a faint trail leading east.";
+ also the daze is subsequently east of the meadow.

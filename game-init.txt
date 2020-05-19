@@ -3,6 +3,8 @@ Believe "/base-axioms.txt".
 A tree, a rock, and a cloud exist.
 There is a meadow, a barn, a grassy path, a photograph, and a sky.
 
+There is a daze.
+
 The tree is above the meadow.
 The tree's description is "The branches of the sturdy little live oak splay out low and wide.".
 The tree's place-description is "You are sitting on a thick branch a few feet above the ground.".

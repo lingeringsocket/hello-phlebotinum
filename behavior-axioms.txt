@@ -38,5 +38,10 @@ When a player-character shows a photograph to a child,
  the child perceives it and its container;
  also the child says "I wonder who that is?".
 
-Whenever the player-character surveys an outdoor-place,
+Whenever a player-character surveys an outdoor-place,
  the player-character surveys the sky.
+
+When the player-character discovers the daze,
+ the game-interpreter says "You realize you've learned everything you need to continue your search...";
+ also the game-interpreter says "FINIS";
+ also the game-interpreter terminates.
