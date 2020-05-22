@@ -16,13 +16,15 @@ The cloud is in the sky.
 The cloud's description is "A fluffy little fellow, shaped like a thought balloon.".
 The rock's description is "Just the right size to fit in your hand.".
 The player-character is holding the photograph.
-The photograph's description is "A photo of a person, but the face is blurred.".
+The photograph's description is "A photo of your wife, but her face is blurred.".
 
 The path's description is "The freshly mown grass reminds you of happier times.".
 The grassy path connects the meadow to the barn.
 
 The player-character has a heart.
 The player-character's heart is small.
+
+There is a past.
 
 Believe "/behavior-axioms.txt".
 
@@ -34,6 +36,9 @@ The child surveys the barn.
 
 The child believes "/child-mind-init.txt".
 
+Amy is a gone-girl.
+Amy is the player-character's wife.
+Amy is in the past.
+
 The player-character is perceptive.
 The player-character believes "/player-mind-init.txt".
-

@@ -28,6 +28,8 @@ When the game-turn initializes,
 
 Whenever the game-turn advances,
  the child has no visible-items;
+ also the player-character perceives the player-character's wife;
+ also the player-character perceives {the player-character's wife}'s container;
  also the child perceives the child;
  also the child surveys the child's container.
 
@@ -36,7 +38,7 @@ When a child annotates a map-portal with a map-direction,
 
 When a player-character shows a photograph to a child,
  the child perceives it and its container;
- also the child says "I wonder who that is?".
+ also the child says "Aw, you must love 'er.".
 
 Whenever a player-character surveys an outdoor-place,
  the player-character surveys the sky.
