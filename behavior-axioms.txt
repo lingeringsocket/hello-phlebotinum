@@ -27,9 +27,10 @@ When the game-turn initializes,
  the game-interpreter says "With apologies to Carson McCullers.".
 
 Whenever the game-turn advances,
- the child has no visible-items;
+ the player-character perceives the player-character's heart;
  also the player-character perceives the player-character's wife;
  also the player-character perceives {the player-character's wife}'s container;
+ also the child has no visible-items;
  also the child perceives the child;
  also the child surveys the child's container.
 

@@ -42,7 +42,7 @@ When a player-character loves a past-reminder,
  "Too many fears well up; maybe start with simple objects?".
 
 When a player-character loves an entity,
- and the entity is not a lovely-entity,
+ and the entity is not a lovable-entity,
  the game-interpreter says "Your heart grows a tiny bit.".
 
 When a player-character succeeds,

@@ -1,9 +1,9 @@
 Believe "/phlebotinum/default-axioms.txt".
 
-A lovely-entity is a kind of entity.
-A past-reminder is a kind of lovely-entity.
+A lovable-entity is a kind of entity.
+A past-reminder is a kind of lovable-entity.
 
-A gone-girl is a kind of woman.
+A gone-girl is a kind of wife.
 A gone-girl is a kind of past-reminder.
 
 An outdoor-place is a kind of map-place.
@@ -11,14 +11,11 @@ Skies, barns, and dazes are kinds of map-places.
 Trees and meadows are kinds of outdoor-places.
 A tree is a kind of visible-object.
 
-A love-power is a kind of game-object.
-A love-power's size may be small, medium, or large.
-A person's heart-power must be a love-power.
-A person's heart is the same as a heart-power.
+A heart is a kind of object.
+A heart's size may be small, medium, or large.
+A player-character must have a heart.
 
-A player-character's work-wife must be a woman.
-A player-character's wife is the same as a work-wife.
-A player-character must have a work-wife.
+A player-character must have a wife.
 
 A path is a kind of visible-fixture.
 A path is a kind of map-portal.
@@ -28,7 +25,7 @@ A past is a kind of object.
 
 Rocks, clouds, and photographs are kinds of game-objects.
 
-Trees, rocks, and clouds are kinds of lovely-entity.
+Trees, rocks, and clouds are kinds of lovable-entities.
 A photograph is a kind of past-reminder.
 
 A child is a kind of non-player-character.
