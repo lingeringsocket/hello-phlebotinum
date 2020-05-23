@@ -31,7 +31,7 @@ Whenever the game-turn advances,
  also the player-character perceives the player-character's wife;
  also the player-character perceives {the player-character's wife}'s container;
  also the child has no visible-items;
- also the child perceives the child;
+ also the child perceives the child and the player-character's heart;
  also the child surveys the child's container.
 
 When a child annotates a map-portal with a map-direction,

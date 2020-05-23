@@ -21,8 +21,7 @@ The photograph's description is "A photo of your wife, but her face is blurred."
 The path's description is "The freshly mown grass reminds you of happier times.".
 The grassy path connects the meadow to the barn.
 
-There is a heart.
-The heart is the player-character's heart.
+The player-character has a heart.
 The player-character's heart is small.
 The player-character's heart is in the player-character.
 
