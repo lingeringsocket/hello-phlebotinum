@@ -3,8 +3,8 @@ Believe "/phlebotinum/default-axioms.txt".
 A lovable-entity is a kind of entity.
 A past-reminder is a kind of lovable-entity.
 
-A gone-girl is a kind of wife.
-A gone-girl is a kind of past-reminder.
+A runaway-bride is a kind of wife.
+A runaway-bride is a kind of past-reminder.
 
 An outdoor-place is a kind of map-place.
 Skies, barns, and dazes are kinds of map-places.
@@ -21,7 +21,8 @@ A path is a kind of visible-fixture.
 A path is a kind of map-portal.
 A path must be open.
 
-A past is a kind of object.
+A memory is a kind of object.
+A player-character must have a memory.
 
 Rocks, clouds, and photographs are kinds of game-objects.
 
