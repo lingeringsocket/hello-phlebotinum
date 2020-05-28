@@ -11,7 +11,7 @@ When a player-character loves a tree,
 When a player-character loves a rock,
  and the player-character's heart is small,
  the game-interpreter says
- "You make an effort, but its stoniness is so unlovable; maybe you should try something easier?".
+ "You make an effort, but its stoniness is so unlovable.  Maybe try something easier?".
 
 When a player-character loves a rock,
  and the player-character's heart is not small,
@@ -39,7 +39,7 @@ When a player-character loves a past-reminder,
 When a player-character loves a past-reminder,
  and the player-character's heart is not large,
  the game-interpreter says
- "Too many fears well up; maybe start with simple objects?".
+ "Too many fears well up.  Maybe start with simple objects?".
 
 When a player-character loves an entity,
  and the entity is not a lovable-entity,
