@@ -30,6 +30,8 @@ The player-character's memory is in the player-character.
 
 Believe "/behavior-axioms.txt".
 
+There is a child.
+The child's spc-pronoun-list is "they, them, themself".
 The child is perceptive.
 The child's description is "Yer average ragamuffin.".
 The child is in the barn.

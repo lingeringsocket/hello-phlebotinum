@@ -29,8 +29,10 @@ When the game-turn initializes,
 Whenever the game-turn advances,
  the player-character perceives the player-character's heart;
  also the player-character perceives the player-character's memory;
- also the player-character perceives the player-character's wife;
- also the child has no visible-items;
+ also the player-character perceives the player-character's wife.
+
+Whenever a child begins a game-turn,
+ the child has no visible-items;
  also the child perceives the child and the player-character's heart;
  also the child surveys the child's container.
 

@@ -30,5 +30,3 @@ Trees, rocks, and clouds are kinds of lovable-entities.
 A photograph is a kind of past-reminder.
 
 A child is a kind of non-player-character.
-There is a child.
-The child's spc-pronoun-list is "they, them, themself".
