@@ -33,7 +33,7 @@ Whenever the game-turn advances,
 
 Whenever a child begins a game-turn,
  the child has no visible-items;
- also the child perceives the child and the player-character's heart;
+ also the child perceives the child, all haylofts, all sprites, and the player-character's heart;
  also the child surveys the child's container.
 
 When a child annotates a map-portal with a map-direction,

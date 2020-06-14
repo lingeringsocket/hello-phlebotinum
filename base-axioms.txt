@@ -7,7 +7,7 @@ A runaway-bride is a kind of wife.
 A runaway-bride is a kind of past-reminder.
 
 An outdoor-place is a kind of map-place.
-Skies, barns, and dazes are kinds of map-places.
+Skies, barns, haylofts, and dazes are kinds of map-places.
 Trees and meadows are kinds of outdoor-places.
 A tree is a kind of visible-object.
 
@@ -29,4 +29,9 @@ Rocks, clouds, and photographs are kinds of game-objects.
 Trees, rocks, and clouds are kinds of lovable-entities.
 A photograph is a kind of past-reminder.
 
-A child is a kind of non-player-character.
+Children, sprites, and chickadees are kinds of non-player-characters.
+
+A chickadee is a kind of game-object.
+
+// FIXME should be able to define this in game-init instead
+There is a chickadee.

@@ -1,5 +1,7 @@
 Believe "/base-axioms.txt".
 
+Frederick is a mouse.
+
 When a child references a photograph,
  the child recites "the photo".
 

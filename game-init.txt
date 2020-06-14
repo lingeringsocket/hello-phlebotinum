@@ -1,15 +1,16 @@
 Believe "/base-axioms.txt".
 
 A tree, a rock, and a cloud exist.
-There is a meadow, a barn, a grassy path, a photograph, and a sky.
-
-There is a daze.
+There is a meadow, a barn, a hayloft, a grassy path, a photograph, a
+sky, and a daze.
 
 The tree is above the meadow.
 The tree's description is "The branches of the sturdy little live oak splay out low and wide.".
 The tree's place-description is "You are sitting on a thick branch a few feet above the ground.".
 
 The barn is south of the meadow.
+
+The hayloft is above the barn.
 
 The tree, the player-character, and the rock are in the meadow.
 The cloud is in the sky.
@@ -46,3 +47,12 @@ Amy is in the player-character's memory.
 
 The player-character is perceptive.
 The player-character believes "/player-mind-init.txt".
+
+There is a sprite.
+The sprite is omniscient.
+The sprite is in the hayloft.
+The player-character perceives the sprite.
+
+The chickadee is unperceptive.
+The chickadee believes "/chickadee-mind-init.txt".
+The chickadee is in the tree.
