@@ -32,6 +32,3 @@ A photograph is a kind of past-reminder.
 Children, sprites, and chickadees are kinds of non-player-characters.
 
 A chickadee is a kind of game-object.
-
-// FIXME should be able to define this in game-init instead
-There is a chickadee.

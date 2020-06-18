@@ -53,6 +53,7 @@ The sprite is omniscient.
 The sprite is in the hayloft.
 The player-character perceives the sprite.
 
+There is a chickadee.
 The chickadee is unperceptive.
 The chickadee believes "/chickadee-mind-init.txt".
 The chickadee is in the tree.
