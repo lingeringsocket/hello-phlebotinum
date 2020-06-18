@@ -1,4 +1,4 @@
 Believe "/base-axioms.txt".
 
 There is an invisible nest.
-The chickadee is in the nest.
+I am in the nest.
