@@ -32,7 +32,7 @@ The player-character's memory is in the player-character.
 Believe "/behavior-axioms.txt".
 
 There is a child.
-The child's spc-pronoun-list is "they, them, themself".
+The child's spc-pronoun-list is "they, them, their, themself".
 The child is perceptive.
 The child's description is "Yer average ragamuffin.".
 The child is in the barn.
@@ -50,10 +50,13 @@ The player-character believes "/player-mind-init.txt".
 
 There is a sprite.
 The sprite is omniscient.
+The sprite's spc-pronoun-list is "zzz, zrm, zrz, zrzlf".
 The sprite is in the hayloft.
 The player-character perceives the sprite.
 
-There is a chickadee.
-The chickadee is unperceptive.
-The chickadee believes "/chickadee-mind-init.txt".
-The chickadee is in the tree.
+There is a hen and a rooster.
+All chickens are unperceptive.
+The hen believes "/hen-mind-init.txt".
+The rooster believes "/rooster-mind-init.txt".
+The hen is in the tree.
+The rooster is in the hayloft.

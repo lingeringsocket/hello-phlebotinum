@@ -1,0 +1,6 @@
+Believe "/chicken-mind-init.txt".
+
+There is a hen.
+There is a tree.
+The hen is in the tree.
+The hen is my mate.

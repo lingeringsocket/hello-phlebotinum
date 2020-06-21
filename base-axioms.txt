@@ -29,6 +29,24 @@ Rocks, clouds, and photographs are kinds of game-objects.
 Trees, rocks, and clouds are kinds of lovable-entities.
 A photograph is a kind of past-reminder.
 
-Children, sprites, and chickadees are kinds of non-player-characters.
+// The first WordNet sense for "chicken" refers to the meat instead
+// of the bird, so we clear up the confusion here.
+A chicken is the same as a fowl.
+A chicken is a kind of game-object.
 
-A chickadee is a kind of game-object.
+Children, sprites, and chickens are kinds of non-player-characters.
+
+// WordNet knows that hens and roosters are kinds of chickens,
+// and therefore fowl, but it doesn't model their sex, so we have to
+// do that.
+A hen is a kind of female.
+A rooster is a kind of male.
+
+A chicken's nestmate must be a chicken.
+A chicken's mate is the same as a nestmate.
+
+// Pronouns preferred by the sprite.
+"Zzz" is a nominative pronoun.
+"Zrm" is an objective pronoun.
+"Zrz" is a possessive pronoun.
+"Zrzlf" is a reflexive pronoun.
