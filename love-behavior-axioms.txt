@@ -5,7 +5,7 @@ When a player-character loves a tree,
  "The leaves blush gold in the sunlight.".
 
 When a player-character loves a tree,
- and player-character's heart is small,
+ and the player-character's heart is small,
  the player-character's heart becomes medium.
 
 When a player-character loves a rock,
