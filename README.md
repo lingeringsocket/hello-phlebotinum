@@ -1,1 +1,1 @@
-A simple example of a phlebotinum world.
+A simple example of a phlebotinum story.
