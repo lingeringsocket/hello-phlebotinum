@@ -5,8 +5,10 @@ There is a meadow, a barn, a hayloft, a grassy path, a photograph, a
 sky, and a daze.
 
 The tree is above the meadow.
-The tree's description is "The branches of the sturdy little live oak splay out low and wide.".
-The tree's place-description is "You are sitting on a thick branch a few feet above the ground.".
+The tree's describer defaults to
+"The branches of the sturdy little live oak splay out low and wide.".
+The tree's place-describer defaults to
+"You are sitting on a thick branch a few feet above the ground.".
 
 The barn is south of the meadow.
 
@@ -14,12 +16,16 @@ The hayloft is above the barn.
 
 The tree, the player-character, and the rock are in the meadow.
 The cloud is in the sky.
-The cloud's description is "A fluffy little fellow, shaped like a thought balloon.".
-The rock's description is "Just the right size to fit in your hand.".
+The cloud's describer defaults to
+"A fluffy little fellow, shaped like a thought balloon.".
+The rock's describer defaults to
+"Just the right size to fit in your hand.".
 The player-character is holding the photograph.
-The photograph's description is "A photo of your wife, but her face is blurred.".
+The photograph's describer defaults to
+"A photo of your wife, but her face is blurred.".
 
-The path's description is "The freshly mown grass reminds you of happier times.".
+The path's describer defaults to
+"The freshly mown grass reminds you of happier times.".
 The grassy path connects the meadow to the barn.
 
 The player-character's heart exists.
@@ -34,7 +40,7 @@ Believe "/behavior-axioms.txt".
 There is a child.
 The child's spc-pronoun-list is "they, them, their, themself".
 The child is perceptive.
-The child's description is "Yer average ragamuffin.".
+The child's describer defaults to "Yer average ragamuffin.".
 The child is in the barn.
 
 The child surveys the barn.
