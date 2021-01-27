@@ -1,4 +1,9 @@
 Believe "/base-axioms.txt".
+Believe "/phlebotinum/default-init.txt".
+
+The game-greeting substitutes
+"With apologies to Carson McCullers."
+in Generic-English.
 
 A tree, a rock, and a cloud exist.
 There is a meadow, a barn, a hayloft, a grassy path, a photograph, a
@@ -66,3 +71,5 @@ The hen believes "/hen-mind-init.txt".
 The rooster believes "/rooster-mind-init.txt".
 The hen is in the tree.
 The rooster is in the hayloft.
+
+Believe "/spanish-init.txt".

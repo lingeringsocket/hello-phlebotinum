@@ -1,0 +1,34 @@
+Believe "/game-init.txt".
+Believe "/phlebotinum/default-spanish-init.txt".
+
+The game-greeting yields
+"Con disculpas a Carson McCullers."
+in Generic-Spanish.
+
+The tree's describer yields
+"Las ramas del robusto y pequeño roble vivo se extienden bajas y anchas."
+in Generic-Spanish.
+
+The tree's place-describer yields
+"Estás sentado en una rama gruesa a unos pocos pies del suelo."
+in Generic-Spanish.
+
+The cloud's describer yields
+"Una pequeña compañera esponjosa, con forma de globo de pensamiento."
+in Generic-Spanish.
+
+The rock's describer yields
+"Justo el tamaño adecuado para caber en tu mano."
+in Generic-Spanish.
+
+The photograph's describer yields
+"Una foto de tu mujer, pero el rostro está borroso."
+in Generic-Spanish.
+
+The path's describer yields
+"La hierba recién cortada te recuerda tiempos más felices."
+in Generic-Spanish.
+
+The child's describer yields
+"Un descamisado típico."
+in Generic-Spanish.
